@@ -1,9 +1,9 @@
 <a href="http://www.zeitverschiebung.net/en/country/pk"><span style="color:aqua;">
 </span><br/></a></h2> <iframe src="http://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&timezone=Asia/Karachi" width="100%" height="150" frameborder="0" seamless></iframe> <small style="color:;">&copy; <a href="http://www.zeitverschiebung.net/en/" style="color: green;"></a></small> </div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>-=[CHAUDHRY BOTTER&trade; ]=-</title>        <link rel="stylesheet" type="text/css" href="ali.css" media="all,handheld"/>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>-=[CHAUDHRY BOTTER&trade; ]=-</title>        
+<link rel="stylesheet" type="text/css" href="ali.css" media="all,handheld"/>
 <link rel="stylesheet" type="text/css" href="black.css" media="all,handheld"/>
-<link rel="stylesheet" type="text/css" href="snow.css" media="all,handheld"/>
-       <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>        <link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/clubpenguin/images/4/47/1433_icon.png/revision/latest?cb=20120705152241"><script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=85737440"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>        <link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/clubpenguin/images/4/47/1433_icon.png/revision/latest?cb=20120705152241"><script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=85737440"></script>
 <script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="fire_works.js"></script>
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
 <html>
